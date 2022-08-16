@@ -247,7 +247,7 @@ button {
 
 .main-layout {
   background-repeat: no-repeat;
-  background: url(body_bg.png);
+  background: url(/images/body_bg.png);
 }
 
 .loader_bg {
