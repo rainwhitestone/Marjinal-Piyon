@@ -53,7 +53,7 @@
 
 @media (min-width: 576px) and (max-width: 767px) {
   .head_top {
-    background: url(../images/fantasy.jpg);
+    background: url(/fantasy.jpg);
   }
   .mean-container .mean-bar {
     margin-top: 0px;
@@ -126,7 +126,7 @@
     padding-top: 6px;
   }
   .navigation.navbar-dark .navbar-toggler-icon {
-    background: url(../images/menu_icon.png);
+    
     background-repeat: no-repeat;
   }
 }
@@ -229,7 +229,7 @@
     padding: 0px 19px 40px 20px;
   }
   .navigation.navbar-dark .navbar-toggler-icon {
-    background: url(../images/menu_icon.png);
+    
     background-repeat: no-repeat;
   }
 }
