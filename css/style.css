@@ -247,7 +247,7 @@ button {
 
 .main-layout {
   background-repeat: no-repeat;
-  background: url("/body_bg.png");
+  background: url("body_bg.png");
 }
 
 .loader_bg {
@@ -315,7 +315,7 @@ button {
 
 /*--------------------------------------------------------------------- layout new css ---------------------------------------------------------------------*/
 .head_top {
-  background-image: url("/fantasy.jpg");
+  background-image: url("fantasy.jpg");
   max-width: 100%;
   background-repeat: no-repeat;
   background-position: center;
@@ -323,7 +323,7 @@ button {
 
 @media (max-width: 370px) {
   .head_top {
-    background-image: url("/fantasy.jpg");
+    background-image: url("fantasy.jpg");
     max-width: 100%;
     background-repeat: no-repeat;
     background-position: center;
@@ -539,7 +539,7 @@ ul.padding_left2 li img {
 /** Testimonial section **/
 
 .Testimonial {
-  background-image: url("/background-short.jpg");
+  background-image: url("background-short.jpg");
   background-repeat: no-repeat;
   background-position: center;
   padding: 60px 0px;
